@@ -1,6 +1,6 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
 --index-url https://pypi.tuna.tsinghua.edu.cn/simple
-torch==2.0.0+cu118
+torch==2.2.0
 torchvision==0.15.1+cu118
 pytorch_lightning==2.0.1
 tensorboard==2.11.2
