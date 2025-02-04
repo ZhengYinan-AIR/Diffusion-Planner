@@ -100,7 +100,7 @@ pip install -r requirements.txt
 cd ..
 git clone https://github.com/ZhengYinan-AIR/Diffusion-Planner.git && cd Diffusion-Planner
 pip install -e .
-pip install -r requirements_torch
+pip install -r requirements_torch.txt
 ```
 - Download the model checkpoint from [Huggingface](https://huggingface.co/ZhengYinan2001/Diffusion-Planner) repository. Download, two files under `checkpoints` directory. 
 ```bash
